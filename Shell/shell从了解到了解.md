@@ -22,7 +22,7 @@ Command Line Interface shell ，即CLI shell。
 
 shell的种类有很多，我们可以通过**cat /etc/shells**来获取。
 
-![](http://ww2.sinaimg.cn/large/006tNc79ly1g54beopybvj30ms08uq63.jpg)
+![屏幕快照 2019-07-18 下午9.32.53](http://ww2.sinaimg.cn/large/006tNc79ly1g54bgs4syyj30m808wacq.jpg)
 
 其中：
 
@@ -40,7 +40,7 @@ shell的种类有很多，我们可以通过**cat /etc/shells**来获取。
 echo "hello world!"
 ```
 
-***#!***是一个约定的标记，它告诉系统这个脚本需要什么解释器来执行，即使用哪一种shell。比如这里使用了***/bin/bash***来执行这个脚本。
+***#!*** 是一个约定的标记，它告诉系统这个脚本需要什么解释器来执行，即使用哪一种shell。比如这里使用了***/bin/bash***来执行这个脚本。
 
 **echo**命令用户向窗口输出文本。
 
