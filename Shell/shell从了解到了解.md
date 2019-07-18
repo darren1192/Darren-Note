@@ -22,7 +22,7 @@ Command Line Interface shell ，即CLI shell。
 
 shell的种类有很多，我们可以通过**cat /etc/shells**来获取。
 
-(http://ww2.sinaimg.cn/large/006tNc79ly1g54aigjjnsj30ms08uq5m.jpg)
+[](http://ww2.sinaimg.cn/large/006tNc79ly1g54aigjjnsj30ms08uq5m.jpg)
 
 其中：
 
