@@ -339,6 +339,3 @@ func 1 2 3 4 5 6 7 8 9 10 11 12
   touch new_{1..5}.txt #创建new_1.txt	new_2.txt	new_3.txt	new_4.txt	new_5.txt  5个文件
   ```
 
-
-### 其他用法
-
