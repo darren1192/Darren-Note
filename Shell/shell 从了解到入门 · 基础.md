@@ -280,3 +280,7 @@ b="efg"
 | -e file | 检测文件（包括目录）是否存在，如果是，则返回 true            |
 
 
+
+##### 补充：
+
+- [shell文字颜色](https://misc.flogisoft.com/bash/tip_colors_and_formatting)

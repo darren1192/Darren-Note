@@ -52,3 +52,11 @@ sh demo.sh
 
 或者直接**./demo.sh**，但这样可能会报错**Permission denied**错误，这是没有执行权限，运行运行**chmod a+x demo.sh**加上执行权限即可。
 
+
+
+##### 相关
+
+[菜鸟教程](https://www.runoob.com/linux/linux-shell.html)
+
+[Shell脚本：Linux Shell脚本学习指南（超详细）](http://c.biancheng.net/shell/)
+
